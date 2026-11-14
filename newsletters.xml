@@ -5,7 +5,33 @@
     <link>https://lucianoglave.github.io/finance-digest-feed/newsletters.xml</link>
     <description>Recaps of the newsletters you follow</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:56:45 +0000</lastBuildDate>
+    <item>
+      <title>Five more prompts from Cat Labs that will help you build with AI</title>
+      <link>https://catgptnewsletter.beehiiv.com/p/the-cat-labs-guide-to-turning-your-ideas-into-working-prototypes?utm_source=chatgpt.com).</link>
+      <guid isPermaLink="false">https://catgptnewsletter.beehiiv.com/p/the-cat-labs-guide-to-turning-your-ideas-into-working-prototypes?utm_source=chatgpt.com).</guid>
+      <author>CatGPT (newsletter)</author>
+      <category>Tech &amp; AI</category>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p><strong>Category:</strong> Tech &amp; AI &nbsp;|&nbsp; <strong>Score:</strong> 8/10 &nbsp;|&nbsp; <strong>Creator:</strong> CatGPT (newsletter)</p><p><a href="https://catgptnewsletter.beehiiv.com/p/the-cat-labs-guide-to-turning-your-ideas-into-working-prototypes?utm_source=chatgpt.com).">📰 Open original</a></p><hr/><h3>Category</h3>
+<p>Tech &amp; AI</p>
+<h3>Core Thesis</h3>
+<p>Once you have an MVP built with AI, the work isn&apos;t finished—you need to validate and refine it against your actual goals and real-world data. This issue provides five practical prompts and techniques to iteratively improve AI-assisted prototypes and ensure they align with your original vision.</p>
+<h3>Key Points</h3>
+<li>**Ask AI to articulate your goal**: Have AI explain what it thinks your objective is, then audit the work against that stated goal to catch misalignment early before investing in dozens of micro-iterations.</li>
+<li>**Test with real data, not cherry-picked samples**: Prototypes often look polished with curated placeholder data but break when populated with realistic, messy information from your actual API or dataset.</li>
+<li>**Request source documentation from AI**: Before making business decisions based on AI outputs, ask it to pull up the underlying data so you can verify claims independently, as models can still hallucinate despite improvements.</li>
+<li>**Provide existing brand assets as templates**: Giving AI a design system or brand template you&apos;ve already invested in communicates visual preferences and saves explanation time compared to building from scratch.</li>
+<li>**Use AI to map end-to-end processes**: When you have a recurring workflow that feels inefficient, have AI help document the entire process so it can spot optimization opportunities you might miss while living in the system daily.</li>
+<h3>Studies &amp; Articles</h3>
+<p>None mentioned.</p>
+<h3>Takeaways</h3>
+<li>When collaborating with AI on projects, regularly pause to validate that both you and the model share the same understanding of success criteria before continuing iteration.</li>
+<li>Always stress-test prototypes with realistic data early—this reveals design flaws that invisible in mockups and prevents wasted engineering effort on solutions that don&apos;t work in practice.</li>
+<li>Treat AI as a reasoning partner for systems thinking: use it to externalize complex workflows and processes you navigate daily, then use that clarity to identify improvements and automation opportunities.</li>
+<h3>Relevance Score</h3>
+<p>8</p>]]></description>
+    </item>
     <item>
       <title>everything to read instead of doomscroll this week by @stephthefounder
  (November 9)</title>
